@@ -1,7 +1,7 @@
 # explain-pytest
 sample django app for explaining pytest, pytest-django, and coverage to starters.
 
-# set up
+## set up
 
 ```
 $ virtualenv .venv
@@ -10,7 +10,7 @@ $ pip install -r requirements.txt
 $ pip install -e .
 ```
 
-# useage
+## useage
 ```
 $ py.test tests
 ```
